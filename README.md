@@ -1,4 +1,4 @@
-# Simple Linear Regression - Salary Prediction
+# Salary Prediction
 
 This project demonstrates a basic implementation of **Simple Linear Regression** to predict salaries based on years of experience. It uses the [Salary Dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data) from Kaggle.
 
@@ -14,8 +14,7 @@ The project consists of a single Jupyter Notebook file:
 - `main.ipynb`: Contains the entire implementation of the project, including loading data, model training, visualization, and evaluation.
 
 ## Dataset
-The dataset is sourced from Kaggle:  
-[Salary Dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data)  
+The dataset is sourced from Kaggle: [Salary Dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data)  
 It contains two columns:
 1. `YearsExperience`: Years of work experience.
 2. `Salary`: Corresponding salary.
