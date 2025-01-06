@@ -48,7 +48,7 @@ It contains two columns:
 - **Evaluation**: The cost function and \( R^2 \) score are calculated to assess the model's performance.
 
 ## Example Output
-![image](https://github.com/user-attachments/assets/69f67583-2312-439f-91f2-d08e94bb131a)
+![image](https://github.com/user-attachments/assets/51857b53-58a7-460f-9844-500670735c68)
 
 ## Contributing
 This is a basic project designed for educational purposes. Feel free to fork and extend it! Contributions are welcome.
